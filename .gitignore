@@ -3,7 +3,7 @@
 /target/
 /*-init.clj
 /*.log
-/.calva\
+/*.calva-repl
 # Leiningen
 /.lein-*
 /.nrepl-port
